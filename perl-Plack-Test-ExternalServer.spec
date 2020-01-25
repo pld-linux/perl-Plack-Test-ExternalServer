@@ -4,7 +4,6 @@
 
 %define		pdir	Plack
 %define		pnam	Test-ExternalServer
-%include	/usr/lib/rpm/macros.perl
 Summary:	Plack::Test::ExternalServer - Run HTTP tests on external live servers
 Name:		perl-Plack-Test-ExternalServer
 Version:	0.01
